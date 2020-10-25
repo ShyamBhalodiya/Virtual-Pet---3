@@ -3,12 +3,12 @@ var dog, happydog, database, foodStock, foodS, foodObj, Nameinput, bedroom, wash
 
 function preload() {
   //load images here
-  dogimg = loadImage("images/dogImg.png");
-  happydog = loadImage("images/dogImg1.png");
-  bedroom = loadImage("images/Bed Room.png");
-  washroom = loadImage("images/Wash Room.png");
-  garden = loadImage("images/Garden.png");
-  sadDog = loadImage("images/Lazy.png");
+  dogimg = loadImage("dogImg.png");
+  happydog = loadImage("dogImg1.png");
+  bedroom = loadImage("BedRoom.png");
+  washroom = loadImage("WashRoom.png");
+  garden = loadImage("Garden.png");
+  sadDog = loadImage("Lazy.png");
 }
 
 function setup() {
